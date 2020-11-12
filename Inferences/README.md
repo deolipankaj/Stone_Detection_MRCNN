@@ -127,9 +127,11 @@ If we look at our environment (especially the off-road environment), sometimes, 
 4. Changing light conditions affecting the visibility of rocks.    
 <img src="1001371578sunset-paradise-gif.gif">
 
-5. Sometimes, man-made objects being mis-judged as a rock. <img src="download.png">
+5. Sometimes, man-made objects being mis-judged as a rock. 
+<img src="download.png">
 
-6. Improper view of the stones present underwater. <img src="286228109057201.gif">
+6. Improper view of the stones present underwater. 
+<img src="286228109057201.gif">
 
 # Conclusion
 
