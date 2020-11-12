@@ -119,16 +119,22 @@ For a model to learn these many features , it must be trained on a wide variety 
 
 If we look at our environment (especially the off-road environment), sometimes, we (humans) have difficulty identifying rocks because of complexities including:
 
-1. The rock being camouflaged by the bushes. <img src="istockphoto-1020582168-1024x1024.jpg">
-2. Environment conditions (such as rainfall) changing the appearance of a rock making it look same as that of its environment. <img src="stock-photo-river-deep-in-mountain-forest-nature-composition-131230319.jpg"> 
+1. The rock being camouflaged by the bushes. 
+<img src="istockphoto-1020582168-1024x1024.jpg">
+2. Environment conditions (such as rainfall) changing the appearance of a rock making it look same as that of its environment. 
+<img src="stock-photo-river-deep-in-mountain-forest-nature-composition-131230319.jpg"> 
 
-3. Wide variety of rocks present in the environment. <img src="stone-forest4.jpg">
+3. Wide variety of rocks present in the environment. 
+<img src="stone-forest4.jpg">
 
-4. Changing light conditions affecting the visibility of rocks. <img src="1001371578sunset-paradise-gif.gif">
+4. Changing light conditions affecting the visibility of rocks. 
+<img src="1001371578sunset-paradise-gif.gif">
 
-5. Sometimes, man-made objects being mis-judged as a rock. <img src="download.png">
+5. Sometimes, man-made objects being mis-judged as a rock. 
+<img src="download.png">
 
-6. Improper view of the stones present underwater. <img src="286228109057201.gif">
+6. Improper view of the stones present underwater. 
+<img src="286228109057201.gif">
 
 # Conclusion
 
