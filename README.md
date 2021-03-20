@@ -11,6 +11,8 @@ The repository further includes:
 3. Pre-Trained weights (only 1 epoch) for Stone detection.
 -----------
 
+# Updated (Full) project details under Inferences folder
+
 # Training on your own stone dataset
 
 As a basis of detecting stones and presenting them with a color splash, go through this incredible example (https://engineering.matterport.com/splash-of-color-instance-segmentation-with-mask-r-cnn-and-tensorflow-7c761e238b46) in which the same has been done with the help of Balloon. It covers the whole process starting from annotating images to training to using the results in your own application.
